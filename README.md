@@ -5,3 +5,6 @@
 ### Utilizaremos um banco de dados que esá disponível na plataforma UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Flags). Será feita uma aplicacão na linguagem Python, com o suporte de bibliotecas referentes à matemática de análise de dados, como: Numpy, Pandas, Scikit e OpenAI. Usaremos Github e Google Colaboratory (https://colab.research.google.com/drive/1jAueUTzDLBafYJ9h72ovdOUG6FgILzCd#scrollTo=vX7nMsHTQr7w) para ajudar na elaboracão e desenvolvimento do código de forma eficiente.
 
 ### O objetivo principal e desenvolver um modelo que irá tentar determinar a religião predominante em um país com base nas características de sua bandeira, tais como a presença de círculos, triangulos, listras etc. Isso nos dirá, por exemplo, se há uma influência histórica, da religiâo, na criacão das bandeiras.
+
+
+### Google Colab disponível para leitura para emails do domínio do Centro de Informática (CIn - UFPE) https://colab.research.google.com/drive/1ycjtarQ4ydz74FRc5mMGYkEpYutGdCny?authuser=3#scrollTo=wfQRDWbYmwvH
