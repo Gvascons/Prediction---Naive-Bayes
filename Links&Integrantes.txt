@@ -1,0 +1,7 @@
+Os códigos referentes ao projeto estão disponíveis no github "https://github.com/Gvascons/Prediction---Naive-Bayes" na forma de ".py"
+e ".ipynb", bem como os slides da apresentação e o relatório referente à mesma. O vídeo referente ao esclareimento do modelo está disponível
+em "https://youtu.be/YRaxCVjiqw8". Os integrantes do grupo são:
+- João Gabriel de Araújo Vasconcelos (jgav)
+- Edinaldo Barbosa da Costa Filho (ebcf2)
+- Marcelo Menezes Valois (mmv4)
+- Victor Bruno de Moura Souza (vbms)
