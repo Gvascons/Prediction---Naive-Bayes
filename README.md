@@ -7,4 +7,4 @@
 ### O objetivo principal e desenvolver um modelo que irá tentar determinar a religião predominante em um país com base nas características de sua bandeira, tais como a presença de círculos, triangulos, listras etc. Isso nos dirá, por exemplo, se há uma influência histórica, da religiâo, na criacão das bandeiras.
 
 
-### Google Colab disponível para leitura para emails do domínio do Centro de Informática (CIn - UFPE) https://colab.research.google.com/drive/1ycjtarQ4ydz74FRc5mMGYkEpYutGdCny?authuser=3#scrollTo=wfQRDWbYmwvH
+### Google Colab disponível para leitura para emails do domínio do Centro de Informática (CIn - UFPE) https://colab.research.google.com/drive/1ycjtarQ4ydz74FRc5mMGYkEpYutGdCny?authuser=3#scrollTo=wfQRDWbYmwvH ( O arquivo ".ipynb" também foi disponibilizado publicamente neste repositório para outros domínios. Basta abrir o arquivo referido em uma ferramenta Jupyter ou Google Collab ).
